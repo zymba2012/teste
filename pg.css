@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+body{
+    margin:0px;
+    
+}
+.cont{
+    width: 100%;
+    padding: 0px;
+    
+}
+
+.titulo{
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-family: "Pacifico", cursive;
+    font-size: 35px;
+    text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #FF2D95 0px 0px 20px, #FF2D95 0px 0px 30px, #FF2D95 0px 0px 40px, #FF2D95 0px 0px 50px, #FF2D95 0px 0px 75px, 5px 14px 10px rgba(206,89,55,0);
+}
+
+.conteudo{
+    width: 90%;
+    display: flex;
+    padding: 40px;
+
+}
+
+.conteudo img{
+    width: 300px;
+    border-radius: 175px;
+   
+}
+
+.lesquerdo{
+    text-align: center;
+
+}
+
+.ldireito{
+    font-size: 22px;
+    font-family: "Permanent Marker", cursive;
+}
